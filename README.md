@@ -28,7 +28,7 @@ make
 ./server
 ```
 
-> ServerIn process id'si (PID) terminalde gözükür.
+> Server'ın process id'si (PID) terminalde gözükür.
 
 4. Ayrı bir terminal penceresinde, server'ın PID'si ve iletmek istediğiniz mesajla client binary file'ı çalıştırarak client'ı başlatın:
 
