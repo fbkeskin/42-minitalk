@@ -40,7 +40,7 @@ make
 
 Example:
 ```bash
-./client 1453 Trrrrum, trrrrum, trrrrum! Trak tiki tak! Makinalaşmak istiyorum!
+./client 1760 Trrrrum, trrrrum, trrrrum! Trak tiki tak! Makinalaşmak istiyorum!
 ```
 
 > Bu, ilgili PID ile sunucuya ilgili mesajı gönderecektir.
