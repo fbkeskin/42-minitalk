@@ -1,7 +1,7 @@
 <div align="center">
 	<h1>🗣️ minitalk</h1>
   <img src="https://i.redd.it/d1od5plmoeiz.jpg"/>
-	<p>Bu proje, C'deki sinyaller kullanılarak uygulanan basit bir client-server iletişim sistemidir. Client, sunucuya bir mesaj gönderir ve server, mesajı karakter karakter alır ve görüntüler.</p>
+	<p>Bu proje, C'deki sinyaller kullanılarak uygulanan basit bir client-server iletişim sistemidir. Client, server'a bir mesaj gönderir ve server, mesajı karakter karakter alır ve görüntüler.</p>
    <br />
 	<img src="https://img.shields.io/badge/norminette-passing-success"/>
 	<a href="https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/FindingLeaks.html"><img src="https://img.shields.io/badge/leaks-none-success" /></a>
